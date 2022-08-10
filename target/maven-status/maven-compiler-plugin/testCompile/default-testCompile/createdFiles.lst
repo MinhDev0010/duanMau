@@ -1,0 +1,11 @@
+DAO\ThongKeDAOTest.class
+DAO\NguoiHocDAOTest.class
+DAO\HocVienDAOTest.class
+Entity\ChuyenDeTest.class
+DAO\NhanVienDAOTest.class
+Entity\HocVienTest.class
+Entity\KhoaHocTest.class
+Entity\NhanVienTest.class
+DAO\KhoaHocDAOTest.class
+DAO\ChuyenDeDAOTest.class
+Entity\NguoiHocTest.class
